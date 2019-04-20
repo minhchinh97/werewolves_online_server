@@ -1,7 +1,7 @@
 # Werewolves Online Server
 This repo contains the server-side source code of 'Werewolves Online' and its very first release. For more insights, read the relevant article at https://medium.com/@minhchinhduong97/developing-an-online-board-game-web-based-application-with-express-socket-io-and-react-js-efe6bf0db45
 
-!IMPORTANT: for database infrastructure, view Mongoose Schema files under the folder <b>/mongoose-schema</b>
+!IMPORTANT: for database infrastructure, view <b>Mongoose Schema files</b> under the folder <b>/mongoose-schema</b>
 
 # Dependencies
 - React.js
